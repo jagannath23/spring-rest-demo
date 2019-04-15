@@ -1,6 +1,8 @@
 Spring REST JPA
+---------------------------------------------
 
-To install:
+To run:
+---------------------------------------------
 ```bash
 ## Build application from base directory
 mvn clean install
